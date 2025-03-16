@@ -1,0 +1,835 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\CurrencyServiceSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C112A82B-CFFD-40B8-B3B2-34A243537B2D}|MigrationService\\MigrationService.csproj|d:\\projects\\currencyservicesolution\\migrationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C112A82B-CFFD-40B8-B3B2-34A243537B2D}|MigrationService\\MigrationService.csproj|solutionrelative:migrationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07811662-9BFF-4523-9852-D469AA76D161}|UserService\\UserService.csproj|d:\\projects\\currencyservicesolution\\userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07811662-9BFF-4523-9852-D469AA76D161}|UserService\\UserService.csproj|solutionrelative:userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C112A82B-CFFD-40B8-B3B2-34A243537B2D}|MigrationService\\MigrationService.csproj|d:\\projects\\currencyservicesolution\\migrationservice\\controllers\\migrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C112A82B-CFFD-40B8-B3B2-34A243537B2D}|MigrationService\\MigrationService.csproj|solutionrelative:migrationservice\\controllers\\migrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C112A82B-CFFD-40B8-B3B2-34A243537B2D}|MigrationService\\MigrationService.csproj|d:\\projects\\currencyservicesolution\\migrationservice\\migrationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C112A82B-CFFD-40B8-B3B2-34A243537B2D}|MigrationService\\MigrationService.csproj|solutionrelative:migrationservice\\migrationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C112A82B-CFFD-40B8-B3B2-34A243537B2D}|MigrationService\\MigrationService.csproj|d:\\projects\\currencyservicesolution\\migrationservice\\migrationservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C112A82B-CFFD-40B8-B3B2-34A243537B2D}|MigrationService\\MigrationService.csproj|solutionrelative:migrationservice\\migrationservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C112A82B-CFFD-40B8-B3B2-34A243537B2D}|MigrationService\\MigrationService.csproj|d:\\projects\\currencyservicesolution\\migrationservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C112A82B-CFFD-40B8-B3B2-34A243537B2D}|MigrationService\\MigrationService.csproj|solutionrelative:migrationservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F720656-E868-4903-A35C-81C08CA6BA31}|FinanceService.Tests\\FinanceService.Tests.csproj|d:\\projects\\currencyservicesolution\\financeservice.tests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F720656-E868-4903-A35C-81C08CA6BA31}|FinanceService.Tests\\FinanceService.Tests.csproj|solutionrelative:financeservice.tests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493F8716-8357-4A11-929B-7481290E4297}|UserService.Tests\\UserService.Tests.csproj|d:\\projects\\currencyservicesolution\\userservice.tests\\userservice.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{493F8716-8357-4A11-929B-7481290E4297}|UserService.Tests\\UserService.Tests.csproj|solutionrelative:userservice.tests\\userservice.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493F8716-8357-4A11-929B-7481290E4297}|UserService.Tests\\UserService.Tests.csproj|d:\\projects\\currencyservicesolution\\userservice.tests\\controllers\\authcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493F8716-8357-4A11-929B-7481290E4297}|UserService.Tests\\UserService.Tests.csproj|solutionrelative:userservice.tests\\controllers\\authcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BAC9F4-6EDB-4658-ABC5-CE669363672A}|ApiGateway\\ApiGateway.csproj|d:\\projects\\currencyservicesolution\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0BAC9F4-6EDB-4658-ABC5-CE669363672A}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BAC9F4-6EDB-4658-ABC5-CE669363672A}|ApiGateway\\ApiGateway.csproj|d:\\projects\\currencyservicesolution\\apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0BAC9F4-6EDB-4658-ABC5-CE669363672A}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BAC9F4-6EDB-4658-ABC5-CE669363672A}|ApiGateway\\ApiGateway.csproj|d:\\projects\\currencyservicesolution\\apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0BAC9F4-6EDB-4658-ABC5-CE669363672A}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BAC9F4-6EDB-4658-ABC5-CE669363672A}|ApiGateway\\ApiGateway.csproj|d:\\projects\\currencyservicesolution\\apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0BAC9F4-6EDB-4658-ABC5-CE669363672A}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31757020-F6B3-4719-960F-E3F24B6082B9}|FinanceService\\FinanceService.csproj|d:\\projects\\currencyservicesolution\\financeservice\\controllers\\financecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31757020-F6B3-4719-960F-E3F24B6082B9}|FinanceService\\FinanceService.csproj|solutionrelative:financeservice\\controllers\\financecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31757020-F6B3-4719-960F-E3F24B6082B9}|FinanceService\\FinanceService.csproj|d:\\projects\\currencyservicesolution\\financeservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31757020-F6B3-4719-960F-E3F24B6082B9}|FinanceService\\FinanceService.csproj|solutionrelative:financeservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31757020-F6B3-4719-960F-E3F24B6082B9}|FinanceService\\FinanceService.csproj|d:\\projects\\currencyservicesolution\\financeservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{31757020-F6B3-4719-960F-E3F24B6082B9}|FinanceService\\FinanceService.csproj|solutionrelative:financeservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E287DA7-194F-4E99-AA48-DA25D584276E}|CacheService\\CacheService.csproj|d:\\projects\\currencyservicesolution\\cacheservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E287DA7-194F-4E99-AA48-DA25D584276E}|CacheService\\CacheService.csproj|solutionrelative:cacheservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31757020-F6B3-4719-960F-E3F24B6082B9}|FinanceService\\FinanceService.csproj|d:\\projects\\currencyservicesolution\\financeservice\\services\\financeservice\\financeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31757020-F6B3-4719-960F-E3F24B6082B9}|FinanceService\\FinanceService.csproj|solutionrelative:financeservice\\services\\financeservice\\financeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07811662-9BFF-4523-9852-D469AA76D161}|UserService\\UserService.csproj|d:\\projects\\currencyservicesolution\\userservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07811662-9BFF-4523-9852-D469AA76D161}|UserService\\UserService.csproj|solutionrelative:userservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07811662-9BFF-4523-9852-D469AA76D161}|UserService\\UserService.csproj|d:\\projects\\currencyservicesolution\\userservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{07811662-9BFF-4523-9852-D469AA76D161}|UserService\\UserService.csproj|solutionrelative:userservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F4EC45-F5AE-4592-B00A-B2E93E3D8DAA}|BackgroundService\\BackgroundService.csproj|d:\\projects\\currencyservicesolution\\backgroundservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{86F4EC45-F5AE-4592-B00A-B2E93E3D8DAA}|BackgroundService\\BackgroundService.csproj|solutionrelative:backgroundservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E287DA7-194F-4E99-AA48-DA25D584276E}|CacheService\\CacheService.csproj|d:\\projects\\currencyservicesolution\\cacheservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E287DA7-194F-4E99-AA48-DA25D584276E}|CacheService\\CacheService.csproj|solutionrelative:cacheservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE9F27E9-AA56-49AA-A4FD-3A2B0B1887B6}|CurrencyServiceSolution\\CurrencyServiceSolution.csproj|d:\\projects\\currencyservicesolution\\currencyservicesolution\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE9F27E9-AA56-49AA-A4FD-3A2B0B1887B6}|CurrencyServiceSolution\\CurrencyServiceSolution.csproj|solutionrelative:currencyservicesolution\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E287DA7-194F-4E99-AA48-DA25D584276E}|CacheService\\CacheService.csproj|d:\\projects\\currencyservicesolution\\cacheservice\\services\\cacherservice\\cacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E287DA7-194F-4E99-AA48-DA25D584276E}|CacheService\\CacheService.csproj|solutionrelative:cacheservice\\services\\cacherservice\\cacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31757020-F6B3-4719-960F-E3F24B6082B9}|FinanceService\\FinanceService.csproj|d:\\projects\\currencyservicesolution\\financeservice\\services\\financeservice\\ifinanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31757020-F6B3-4719-960F-E3F24B6082B9}|FinanceService\\FinanceService.csproj|solutionrelative:financeservice\\services\\financeservice\\ifinanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3029B3F4-5520-43D2-AD9D-79C59481ABAB}|SharedModels\\SharedModels.csproj|d:\\projects\\currencyservicesolution\\sharedmodels\\models\\interest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3029B3F4-5520-43D2-AD9D-79C59481ABAB}|SharedModels\\SharedModels.csproj|solutionrelative:sharedmodels\\models\\interest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07811662-9BFF-4523-9852-D469AA76D161}|UserService\\UserService.csproj|d:\\projects\\currencyservicesolution\\userservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{07811662-9BFF-4523-9852-D469AA76D161}|UserService\\UserService.csproj|solutionrelative:userservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E287DA7-194F-4E99-AA48-DA25D584276E}|CacheService\\CacheService.csproj|d:\\projects\\currencyservicesolution\\cacheservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E287DA7-194F-4E99-AA48-DA25D584276E}|CacheService\\CacheService.csproj|solutionrelative:cacheservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31757020-F6B3-4719-960F-E3F24B6082B9}|FinanceService\\FinanceService.csproj|d:\\projects\\currencyservicesolution\\financeservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{31757020-F6B3-4719-960F-E3F24B6082B9}|FinanceService\\FinanceService.csproj|solutionrelative:financeservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E287DA7-194F-4E99-AA48-DA25D584276E}|CacheService\\CacheService.csproj|d:\\projects\\currencyservicesolution\\cacheservice\\services\\jwtservice\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E287DA7-194F-4E99-AA48-DA25D584276E}|CacheService\\CacheService.csproj|solutionrelative:cacheservice\\services\\jwtservice\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E287DA7-194F-4E99-AA48-DA25D584276E}|CacheService\\CacheService.csproj|d:\\projects\\currencyservicesolution\\cacheservice\\services\\jwtservice\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E287DA7-194F-4E99-AA48-DA25D584276E}|CacheService\\CacheService.csproj|solutionrelative:cacheservice\\services\\jwtservice\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E287DA7-194F-4E99-AA48-DA25D584276E}|CacheService\\CacheService.csproj|d:\\projects\\currencyservicesolution\\cacheservice\\controllers\\cachecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E287DA7-194F-4E99-AA48-DA25D584276E}|CacheService\\CacheService.csproj|solutionrelative:cacheservice\\controllers\\cachecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F4EC45-F5AE-4592-B00A-B2E93E3D8DAA}|BackgroundService\\BackgroundService.csproj|d:\\projects\\currencyservicesolution\\backgroundservice\\services\\quartz\\currencyupdatejob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F4EC45-F5AE-4592-B00A-B2E93E3D8DAA}|BackgroundService\\BackgroundService.csproj|solutionrelative:backgroundservice\\services\\quartz\\currencyupdatejob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F4EC45-F5AE-4592-B00A-B2E93E3D8DAA}|BackgroundService\\BackgroundService.csproj|d:\\projects\\currencyservicesolution\\backgroundservice\\services\\httpclients\\cbrsender\\cbrsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F4EC45-F5AE-4592-B00A-B2E93E3D8DAA}|BackgroundService\\BackgroundService.csproj|solutionrelative:backgroundservice\\services\\httpclients\\cbrsender\\cbrsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F4EC45-F5AE-4592-B00A-B2E93E3D8DAA}|BackgroundService\\BackgroundService.csproj|d:\\projects\\currencyservicesolution\\backgroundservice\\services\\httpclients\\cbrsender\\icbrsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F4EC45-F5AE-4592-B00A-B2E93E3D8DAA}|BackgroundService\\BackgroundService.csproj|solutionrelative:backgroundservice\\services\\httpclients\\cbrsender\\icbrsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F4EC45-F5AE-4592-B00A-B2E93E3D8DAA}|BackgroundService\\BackgroundService.csproj|d:\\projects\\currencyservicesolution\\backgroundservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F4EC45-F5AE-4592-B00A-B2E93E3D8DAA}|BackgroundService\\BackgroundService.csproj|solutionrelative:backgroundservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F4EC45-F5AE-4592-B00A-B2E93E3D8DAA}|BackgroundService\\BackgroundService.csproj|d:\\projects\\currencyservicesolution\\backgroundservice\\services\\background\\currencyupdateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F4EC45-F5AE-4592-B00A-B2E93E3D8DAA}|BackgroundService\\BackgroundService.csproj|solutionrelative:backgroundservice\\services\\background\\currencyupdateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F4EC45-F5AE-4592-B00A-B2E93E3D8DAA}|BackgroundService\\BackgroundService.csproj|d:\\projects\\currencyservicesolution\\backgroundservice\\settings\\apisettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F4EC45-F5AE-4592-B00A-B2E93E3D8DAA}|BackgroundService\\BackgroundService.csproj|solutionrelative:backgroundservice\\settings\\apisettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3029B3F4-5520-43D2-AD9D-79C59481ABAB}|SharedModels\\SharedModels.csproj|d:\\projects\\currencyservicesolution\\sharedmodels\\settings\\redissettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3029B3F4-5520-43D2-AD9D-79C59481ABAB}|SharedModels\\SharedModels.csproj|solutionrelative:sharedmodels\\settings\\redissettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07811662-9BFF-4523-9852-D469AA76D161}|UserService\\UserService.csproj|d:\\projects\\currencyservicesolution\\userservice\\models\\usermodels\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07811662-9BFF-4523-9852-D469AA76D161}|UserService\\UserService.csproj|solutionrelative:userservice\\models\\usermodels\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07811662-9BFF-4523-9852-D469AA76D161}|UserService\\UserService.csproj|d:\\projects\\currencyservicesolution\\userservice\\models\\usermodels\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07811662-9BFF-4523-9852-D469AA76D161}|UserService\\UserService.csproj|solutionrelative:userservice\\models\\usermodels\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3029B3F4-5520-43D2-AD9D-79C59481ABAB}|SharedModels\\SharedModels.csproj|d:\\projects\\currencyservicesolution\\sharedmodels\\settings\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3029B3F4-5520-43D2-AD9D-79C59481ABAB}|SharedModels\\SharedModels.csproj|solutionrelative:sharedmodels\\settings\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E287DA7-194F-4E99-AA48-DA25D584276E}|CacheService\\CacheService.csproj|d:\\projects\\currencyservicesolution\\cacheservice\\services\\cacherservice\\icacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E287DA7-194F-4E99-AA48-DA25D584276E}|CacheService\\CacheService.csproj|solutionrelative:cacheservice\\services\\cacherservice\\icacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C112A82B-CFFD-40B8-B3B2-34A243537B2D}|MigrationService\\MigrationService.csproj|d:\\projects\\currencyservicesolution\\migrationservice\\migrationservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C112A82B-CFFD-40B8-B3B2-34A243537B2D}|MigrationService\\MigrationService.csproj|solutionrelative:migrationservice\\migrationservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3029B3F4-5520-43D2-AD9D-79C59481ABAB}|SharedModels\\SharedModels.csproj|d:\\projects\\currencyservicesolution\\sharedmodels\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3029B3F4-5520-43D2-AD9D-79C59481ABAB}|SharedModels\\SharedModels.csproj|solutionrelative:sharedmodels\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3029B3F4-5520-43D2-AD9D-79C59481ABAB}|SharedModels\\SharedModels.csproj|d:\\projects\\currencyservicesolution\\sharedmodels\\models\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3029B3F4-5520-43D2-AD9D-79C59481ABAB}|SharedModels\\SharedModels.csproj|solutionrelative:sharedmodels\\models\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3029B3F4-5520-43D2-AD9D-79C59481ABAB}|SharedModels\\SharedModels.csproj|d:\\projects\\currencyservicesolution\\sharedmodels\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3029B3F4-5520-43D2-AD9D-79C59481ABAB}|SharedModels\\SharedModels.csproj|solutionrelative:sharedmodels\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F4EC45-F5AE-4592-B00A-B2E93E3D8DAA}|BackgroundService\\BackgroundService.csproj|d:\\projects\\currencyservicesolution\\backgroundservice\\backgroundservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{86F4EC45-F5AE-4592-B00A-B2E93E3D8DAA}|BackgroundService\\BackgroundService.csproj|solutionrelative:backgroundservice\\backgroundservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 43,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MigrationController.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\MigrationService\\Controllers\\MigrationController.cs",
+              "RelativeDocumentMoniker": "MigrationService\\Controllers\\MigrationController.cs",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\MigrationService\\Controllers\\MigrationController.cs",
+              "RelativeToolTip": "MigrationService\\Controllers\\MigrationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T17:53:06.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MigrationService",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\MigrationService\\MigrationService.csproj",
+              "RelativeDocumentMoniker": "MigrationService\\MigrationService.csproj",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\MigrationService\\MigrationService.csproj",
+              "RelativeToolTip": "MigrationService\\MigrationService.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-16T17:50:51.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MigrationService",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\MigrationService\\MigrationService.csproj",
+              "RelativeDocumentMoniker": "MigrationService\\MigrationService.csproj",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\MigrationService\\MigrationService.csproj",
+              "RelativeToolTip": "MigrationService\\MigrationService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-16T17:48:49.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthControllerTests.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\UserService.Tests\\Controllers\\AuthControllerTests.cs",
+              "RelativeDocumentMoniker": "UserService.Tests\\Controllers\\AuthControllerTests.cs",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\UserService.Tests\\Controllers\\AuthControllerTests.cs",
+              "RelativeToolTip": "UserService.Tests\\Controllers\\AuthControllerTests.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:59:28.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserService.Tests",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\UserService.Tests\\UserService.Tests.csproj",
+              "RelativeDocumentMoniker": "UserService.Tests\\UserService.Tests.csproj",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\UserService.Tests\\UserService.Tests.csproj",
+              "RelativeToolTip": "UserService.Tests\\UserService.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-16T09:58:41.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\ApiGateway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ApiGateway\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\ApiGateway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ApiGateway\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-16T09:50:52.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\ApiGateway\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiGateway\\appsettings.json",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\ApiGateway\\appsettings.json",
+              "RelativeToolTip": "ApiGateway\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-16T08:43:05.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\CurrencyServiceSolution\\appsettings.json",
+              "RelativeDocumentMoniker": "CurrencyServiceSolution\\appsettings.json",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\CurrencyServiceSolution\\appsettings.json",
+              "RelativeToolTip": "CurrencyServiceSolution\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-16T08:42:38.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\CacheService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CacheService\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\CacheService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CacheService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-16T07:33:40.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\FinanceService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FinanceService\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\FinanceService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FinanceService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-16T07:33:21.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\UserService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "UserService\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\UserService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "UserService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-16T07:32:54.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\ApiGateway\\Program.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Program.cs",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\ApiGateway\\Program.cs",
+              "RelativeToolTip": "ApiGateway\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T07:17:51.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\ApiGateway\\ocelot.json",
+              "RelativeDocumentMoniker": "ApiGateway\\ocelot.json",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\ApiGateway\\ocelot.json",
+              "RelativeToolTip": "ApiGateway\\ocelot.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-16T07:17:18.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FinanceController.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\FinanceService\\Controllers\\FinanceController.cs",
+              "RelativeDocumentMoniker": "FinanceService\\Controllers\\FinanceController.cs",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\FinanceService\\Controllers\\FinanceController.cs",
+              "RelativeToolTip": "FinanceService\\Controllers\\FinanceController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAD4vzIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T13:33:26.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IFinanceService.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\FinanceService\\Services\\FinanceService\\IFinanceService.cs",
+              "RelativeDocumentMoniker": "FinanceService\\Services\\FinanceService\\IFinanceService.cs",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\FinanceService\\Services\\FinanceService\\IFinanceService.cs",
+              "RelativeToolTip": "FinanceService\\Services\\FinanceService\\IFinanceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T13:28:38.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FinanceService.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\FinanceService\\Services\\FinanceService\\FinanceService.cs",
+              "RelativeDocumentMoniker": "FinanceService\\Services\\FinanceService\\FinanceService.cs",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\FinanceService\\Services\\FinanceService\\FinanceService.cs",
+              "RelativeToolTip": "FinanceService\\Services\\FinanceService\\FinanceService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAiwDwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T13:28:33.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\FinanceService\\Program.cs",
+              "RelativeDocumentMoniker": "FinanceService\\Program.cs",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\FinanceService\\Program.cs",
+              "RelativeToolTip": "FinanceService\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAewDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T13:25:59.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RedisSettings.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\SharedModels\\Settings\\RedisSettings.cs",
+              "RelativeDocumentMoniker": "SharedModels\\Settings\\RedisSettings.cs",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\SharedModels\\Settings\\RedisSettings.cs",
+              "RelativeToolTip": "SharedModels\\Settings\\RedisSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T13:25:27.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\UserService\\Models\\UserModels\\LoginModel.cs",
+              "RelativeDocumentMoniker": "UserService\\Models\\UserModels\\LoginModel.cs",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\UserService\\Models\\UserModels\\LoginModel.cs",
+              "RelativeToolTip": "UserService\\Models\\UserModels\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T13:17:44.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\UserService\\Models\\UserModels\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "UserService\\Models\\UserModels\\RegisterModel.cs",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\UserService\\Models\\UserModels\\RegisterModel.cs",
+              "RelativeToolTip": "UserService\\Models\\UserModels\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T13:17:39.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\UserService\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "UserService\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\UserService\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "UserService\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAArwF0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T13:16:35.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\UserService\\Program.cs",
+              "RelativeDocumentMoniker": "UserService\\Program.cs",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\UserService\\Program.cs",
+              "RelativeToolTip": "UserService\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAvwEUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T13:15:29.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\SharedModels\\Settings\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "SharedModels\\Settings\\JwtSettings.cs",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\SharedModels\\Settings\\JwtSettings.cs",
+              "RelativeToolTip": "SharedModels\\Settings\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T13:13:59.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\UserService\\appsettings.json",
+              "RelativeDocumentMoniker": "UserService\\appsettings.json",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\UserService\\appsettings.json",
+              "RelativeToolTip": "UserService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-15T13:12:38.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CacheController.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\CacheService\\Controllers\\CacheController.cs",
+              "RelativeDocumentMoniker": "CacheService\\Controllers\\CacheController.cs",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\CacheService\\Controllers\\CacheController.cs",
+              "RelativeToolTip": "CacheService\\Controllers\\CacheController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABIwBMAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T12:16:49.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CacherService.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\CacheService\\Services\\CacherService\\CacherService.cs",
+              "RelativeDocumentMoniker": "CacheService\\Services\\CacherService\\CacherService.cs",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\CacheService\\Services\\CacherService\\CacherService.cs",
+              "RelativeToolTip": "CacheService\\Services\\CacherService\\CacherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T12:16:03.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ICacherService.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\CacheService\\Services\\CacherService\\ICacherService.cs",
+              "RelativeDocumentMoniker": "CacheService\\Services\\CacherService\\ICacherService.cs",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\CacheService\\Services\\CacherService\\ICacherService.cs",
+              "RelativeToolTip": "CacheService\\Services\\CacherService\\ICacherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T12:15:59.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\CacheService\\Program.cs",
+              "RelativeDocumentMoniker": "CacheService\\Program.cs",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\CacheService\\Program.cs",
+              "RelativeToolTip": "CacheService\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAvwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T12:12:50.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\CacheService\\Services\\JwtService\\IJwtService.cs",
+              "RelativeDocumentMoniker": "CacheService\\Services\\JwtService\\IJwtService.cs",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\CacheService\\Services\\JwtService\\IJwtService.cs",
+              "RelativeToolTip": "CacheService\\Services\\JwtService\\IJwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T12:08:24.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\CacheService\\Services\\JwtService\\JwtService.cs",
+              "RelativeDocumentMoniker": "CacheService\\Services\\JwtService\\JwtService.cs",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\CacheService\\Services\\JwtService\\JwtService.cs",
+              "RelativeToolTip": "CacheService\\Services\\JwtService\\JwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T12:08:15.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ApiSettings.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\BackgroundService\\Settings\\ApiSettings.cs",
+              "RelativeDocumentMoniker": "BackgroundService\\Settings\\ApiSettings.cs",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\BackgroundService\\Settings\\ApiSettings.cs",
+              "RelativeToolTip": "BackgroundService\\Settings\\ApiSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:22:57.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ICbrSender.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\BackgroundService\\Services\\HttpClients\\CbrSender\\ICbrSender.cs",
+              "RelativeDocumentMoniker": "BackgroundService\\Services\\HttpClients\\CbrSender\\ICbrSender.cs",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\BackgroundService\\Services\\HttpClients\\CbrSender\\ICbrSender.cs",
+              "RelativeToolTip": "BackgroundService\\Services\\HttpClients\\CbrSender\\ICbrSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:06:41.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CbrSender.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\BackgroundService\\Services\\HttpClients\\CbrSender\\CbrSender.cs",
+              "RelativeDocumentMoniker": "BackgroundService\\Services\\HttpClients\\CbrSender\\CbrSender.cs",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\BackgroundService\\Services\\HttpClients\\CbrSender\\CbrSender.cs",
+              "RelativeToolTip": "BackgroundService\\Services\\HttpClients\\CbrSender\\CbrSender.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAArwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:06:37.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "MigrationService.http",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\MigrationService\\MigrationService.http",
+              "RelativeDocumentMoniker": "MigrationService\\MigrationService.http",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\MigrationService\\MigrationService.http",
+              "RelativeToolTip": "MigrationService\\MigrationService.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-15T10:52:27.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\SharedModels\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SharedModels\\Models\\User.cs",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\SharedModels\\Models\\User.cs",
+              "RelativeToolTip": "SharedModels\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T10:43:56.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Interest.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\SharedModels\\Models\\Interest.cs",
+              "RelativeDocumentMoniker": "SharedModels\\Models\\Interest.cs",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\SharedModels\\Models\\Interest.cs",
+              "RelativeToolTip": "SharedModels\\Models\\Interest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T10:43:53.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\SharedModels\\Models\\Currency.cs",
+              "RelativeDocumentMoniker": "SharedModels\\Models\\Currency.cs",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\SharedModels\\Models\\Currency.cs",
+              "RelativeToolTip": "SharedModels\\Models\\Currency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T10:43:50.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\SharedModels\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SharedModels\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\SharedModels\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "SharedModels\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T10:42:31.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CurrencyUpdateJob.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\BackgroundService\\Services\\Quartz\\CurrencyUpdateJob.cs",
+              "RelativeDocumentMoniker": "BackgroundService\\Services\\Quartz\\CurrencyUpdateJob.cs",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\BackgroundService\\Services\\Quartz\\CurrencyUpdateJob.cs",
+              "RelativeToolTip": "BackgroundService\\Services\\Quartz\\CurrencyUpdateJob.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAASwA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T10:26:25.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\BackgroundService\\Program.cs",
+              "RelativeDocumentMoniker": "BackgroundService\\Program.cs",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\BackgroundService\\Program.cs",
+              "RelativeToolTip": "BackgroundService\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAABIwB8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T10:24:09.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\BackgroundService\\appsettings.json",
+              "RelativeDocumentMoniker": "BackgroundService\\appsettings.json",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\BackgroundService\\appsettings.json",
+              "RelativeToolTip": "BackgroundService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-15T10:18:56.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "BackgroundService.csproj",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\BackgroundService\\BackgroundService.csproj",
+              "RelativeDocumentMoniker": "BackgroundService\\BackgroundService.csproj",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\BackgroundService\\BackgroundService.csproj",
+              "RelativeToolTip": "BackgroundService\\BackgroundService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-15T10:04:10.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CurrencyUpdateService.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\BackgroundService\\Services\\Background\\CurrencyUpdateService.cs",
+              "RelativeDocumentMoniker": "BackgroundService\\Services\\Background\\CurrencyUpdateService.cs",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\BackgroundService\\Services\\Background\\CurrencyUpdateService.cs",
+              "RelativeToolTip": "BackgroundService\\Services\\Background\\CurrencyUpdateService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T10:02:07.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\MigrationService\\Program.cs",
+              "RelativeDocumentMoniker": "MigrationService\\Program.cs",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\MigrationService\\Program.cs",
+              "RelativeToolTip": "MigrationService\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T09:07:53.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\MigrationService\\appsettings.json",
+              "RelativeDocumentMoniker": "MigrationService\\appsettings.json",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\MigrationService\\appsettings.json",
+              "RelativeToolTip": "MigrationService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-15T09:02:29.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\FinanceService\\appsettings.json",
+              "RelativeDocumentMoniker": "FinanceService\\appsettings.json",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\FinanceService\\appsettings.json",
+              "RelativeToolTip": "FinanceService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-15T09:02:16.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\CacheService\\appsettings.json",
+              "RelativeDocumentMoniker": "CacheService\\appsettings.json",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\CacheService\\appsettings.json",
+              "RelativeToolTip": "CacheService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-15T09:01:29.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyServiceSolution\\FinanceService.Tests\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "FinanceService.Tests\\MSTestSettings.cs",
+              "ToolTip": "D:\\Projects\\CurrencyServiceSolution\\FinanceService.Tests\\MSTestSettings.cs",
+              "RelativeToolTip": "FinanceService.Tests\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T07:12:27.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
